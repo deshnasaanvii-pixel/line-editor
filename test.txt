@@ -1,2 +1,0 @@
-Hello Line Editor
-Second Line
