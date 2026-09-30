@@ -2,7 +2,7 @@
 
  Repository Readme (`README.md`)**[cite: 1]
 
-Create this file for the root of your GitHub repository:
+Create this file for the root of your GitHub repository: 
 
 ```markdown
 # Simple C Line Editor
